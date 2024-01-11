@@ -23,7 +23,7 @@ Welcome to our FullStack E-Commerce App! This application is built using Ruby on
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/fullstack-ecommerce-app.git
+   git clone https://github.com/Deadtargaryen/E-Commerce-with-Ruby-on-rails.git
    ```
 
 2. Navigate to the project directory:
